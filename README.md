@@ -2,11 +2,11 @@
 
 ## GitHub Actions
 
-[![Build and Tests](https://github.com/ugioni/unit-tests-jest/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/ugioni/unit-tests-jest/actions/workflows/node.js.yml)
+[![Build and Tests](https://github.com/gmDarabas/guilherme-darabas-turma2-trabalho01/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/gmDarabas/guilherme-darabas-turma2-trabalho01/actions/workflows/node.js.yml)
 
 ## SonarCloud
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ugioni_unit-tests-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ugioni_unit-tests-jest)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=gmDarabas_guilherme-darabas-turma2-trabalho01&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=gmDarabas_guilherme-darabas-turma2-trabalho01)
 
 ## Getting Started
 
