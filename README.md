@@ -1,4 +1,6 @@
-# JEST Unit Tests
+# Automação de Testes
+
+Avaliação 01 da disciplina Automação de Testes da UNISATC
 
 ## GitHub Actions
 
