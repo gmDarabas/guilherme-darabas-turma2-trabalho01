@@ -8,7 +8,17 @@ Avaliação 01 da disciplina Automação de Testes da UNISATC
 
 ## SonarCloud
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=gmDarabas_guilherme-darabas-turma2-trabalho01&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=gmDarabas_guilherme-darabas-turma2-trabalho01)
+<p>
+  <a href="https://sonarcloud.io/summary/new_code?id=gmDarabas_guilherme-darabas-turma2-trabalho01">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=gmDarabas_guilherme-darabas-turma2-trabalho01&metric=alert_status" alt="Quality Gate Status" />
+  </a>
+  <a href="https://sonarcloud.io/summary/new_code?id=gmDarabas_guilherme-darabas-turma2-trabalho01">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=gmDarabas_guilherme-darabas-turma2-trabalho01&metric=code_smells" alt="Code Smells" />
+  </a>
+  <a href="https://sonarcloud.io/summary/new_code?id=gmDarabas_guilherme-darabas-turma2-trabalho01">
+    <img src="https://sonarcloud.io/api/project_badges/measure?project=gmDarabas_guilherme-darabas-turma2-trabalho01&metric=coverage" alt="Coverage" />
+  </a>
+</p>
 
 ## Getting Started
 
